@@ -11,7 +11,7 @@ The app also generates dynamic visual effects, like falling rain, snow, or cloud
 
 ## Features:
 - **Current Weather**: Displays the current temperature, humidity, wind speed, and weather description.
-- **5-Day Forecast**: Shows a 5-day weather forecast with daily temperatures, weather conditions, and icons.
+- **3-Day Forecast**: Shows a 5-day weather forecast with daily temperatures, weather conditions, and icons.
 - **Location-based Weather**: Automatically detects the user’s location and displays the weather details for that location.
 - **Search for City**: Allows users to search for weather details by entering a city, state, and country.
 - **Weather Effects**: Interactive weather effects (rain, snow, clouds, etc.) based on the current weather conditions.
