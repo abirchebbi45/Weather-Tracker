@@ -13,14 +13,7 @@
 body {
   background-color: #e0eefa;
 }
-.pc {
-  width: 400px;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-  border: 1px solid var(--font-color-main);
-  border-radius: 40px;
-}
+
 nav {
   position: fixed;
   left: 0;
