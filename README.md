@@ -6,6 +6,11 @@ Weather Tracker is a dynamic web application that allows users to get real-time 
 The app also generates dynamic visual effects, like falling rain, snow, or clouds, to enhance the user experience based on the current weather condition.
 
 ---
+## Live Demo
+
+You can view the live version of this project by clicking on the link below:
+
+[Weather Tracker - Live Demo](https://abirchebbi45.github.io/Weather-Tracker/)
 
 ## Features:
 - **Current Weather**: Displays the current temperature, humidity, wind speed, and weather description.
