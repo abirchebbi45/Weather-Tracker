@@ -1,7 +1,5 @@
 # Weather Tracker
 
-## Project Name: Weather Tracker
-
 ### Description:
 Weather Tracker is a dynamic web application that allows users to get real-time weather updates and forecasts for their current location or a searched city. The app fetches weather data from OpenWeatherMap and displays essential weather details such as temperature, humidity, wind speed, and sunrise/sunset times. Additionally, it provides a 5-day weather forecast and displays different weather icons based on the current conditions, such as rain, snow, sun, clouds, mist, or haze.
 
