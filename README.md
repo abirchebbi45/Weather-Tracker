@@ -35,5 +35,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments:
 - The project uses the OpenWeatherMap API for weather data.
 - Special thanks to the contributors and the open-source community for providing resources and tools to build this app.
-
->>>>>>> 5d9dad980151e38388007f582c3e6f7cfed7e891
