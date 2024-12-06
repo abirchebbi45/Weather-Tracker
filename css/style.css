@@ -13,6 +13,13 @@
 body {
   background-color: #87ceeb;
 }
+.pc {
+  width: 400px;
+  height: 860px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40px;
+}
 
 nav {
   position: fixed;
