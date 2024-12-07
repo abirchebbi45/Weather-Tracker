@@ -23,7 +23,7 @@ You can view the live version of this project by clicking on the link below:
 ## Installation:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/weather-tracker.git
+   git clone https://github.com/abirchebbi45/Weather-Tracker.git
 
 ## Technologies Used:
 - **HTML5**: For structure and layout.
